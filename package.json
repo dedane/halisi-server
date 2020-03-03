@@ -1,0 +1,23 @@
+{
+  "name": "halisi-server",
+  "version": "1.0.0",
+  "description": "this  is a server side for halisi project",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm serve",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dedane/halisi-server.git"
+  },
+  "author": "dedane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dedane/halisi-server/issues"
+  },
+  "homepage": "https://github.com/dedane/halisi-server#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
